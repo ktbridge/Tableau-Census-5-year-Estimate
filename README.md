@@ -8,15 +8,15 @@ The dashboards provide an interactive view of key demographic and economic indic
 
 The dashboards are based on annual Excel files for the years:
 
-2019.xlsx
+- 2019.xlsx
 
-2020.xlsx
+- 2020.xlsx
 
-2021.xlsx
+- 2021.xlsx
 
-2022.xlsx
+- 2022.xlsx
 
-2023.xlsx
+- 2023.xlsx
 
 Each file contains census estimates at the state level.
 
@@ -25,9 +25,9 @@ Each file contains census estimates at the state level.
 
 The raw data was obtained from the U.S. Census Bureau using two approaches:
 
-Census API — for structured demographic and economic datasets.
+- Census API — for structured demographic and economic datasets.
 
-BeautifulSoup (Python) — for web scraping supplementary tables when API endpoints were not available.
+- BeautifulSoup (Python) — for web scraping supplementary tables when API endpoints were not available.
 
 The collected data was cleaned and exported into Excel format (.xlsx) for consistency across the five years.
 
@@ -63,14 +63,14 @@ The Tableau dashboards provide interactive analysis of:
 
 🚀 Usage
 
-Clone this repository:
+- Clone this repository:
 
 | git clone https://github.com/your-username/your-repo-name.git
 
 
-Open the Tableau workbooks (.twb / .twbx) inside Tableau Desktop or Tableau Public.
+- Open the Tableau workbooks (.twb / .twbx) inside Tableau Desktop or Tableau Public.
 
-Explore interactive dashboards.
+- Explore interactive dashboards.
 
 
 
