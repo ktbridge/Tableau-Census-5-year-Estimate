@@ -3,6 +3,7 @@
 This repository contains Tableau dashboards built using Census 4-Year Estimates (2019–2023).
 The dashboards provide an interactive view of key demographic and economic indicators across U.S. states.
 
+
 📊 Data Sources
 
 The dashboards are based on annual Excel files for the years:
@@ -19,6 +20,7 @@ The dashboards are based on annual Excel files for the years:
 
 Each file contains census estimates at the state level.
 
+
 🗂️ Data Dictionary
 Column	Description
 State	U.S. state or territory name
@@ -28,6 +30,8 @@ Household Income	Median household income (in USD)
 Per Capita Income	Average income per individual (in USD)
 Poverty Count	Number of people living below the poverty line
 Poverty Rate	Percentage of the population living below the poverty line (%)
+
+
 📈 Dashboards
 
 The Tableau dashboards provide interactive analysis of:
@@ -50,6 +54,8 @@ Income & Poverty Analysis
 
 Median Age Distribution
 
+
+
 🚀 Usage
 
 Clone this repository:
@@ -60,6 +66,8 @@ git clone https://github.com/your-username/your-repo-name.git
 Open the Tableau workbooks (.twb / .twbx) inside Tableau Desktop or Tableau Public.
 
 Explore interactive dashboards.
+
+
 
 📌 Notes
 
