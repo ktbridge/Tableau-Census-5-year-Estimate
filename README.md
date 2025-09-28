@@ -90,6 +90,7 @@ All values are sourced from U.S. Census 4-year estimates (2019–2023).
 Dashboards are optimized for interactive exploration.
 
 
-**You can also view the dashboard** on [Tableau Public](https://public.tableau.com/views/CensusAmericanCommunitySurvey5yrEstimate_html/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**You can also view the dashboard** on [Tableau Public](https://public.tableau.com/views/CensusAmericanCommunitySurvey5yrEstimate_html/Dashboard1)
+
 
 ![Dashboard Screenshot](./Dashboard%201.png)
