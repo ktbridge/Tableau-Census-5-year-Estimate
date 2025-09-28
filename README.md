@@ -72,7 +72,7 @@ OR
 
 - Clone this repository:
 
-| git clone https://github.com/your-username/your-repo-name.git
+| git clone https://github.com/ktbridge/Tableau-Census-5-year-Estimate.git
 
 
 - Open the Tableau workbooks (.twb / .twbx) inside Tableau Desktop or Tableau Public.
@@ -90,6 +90,6 @@ All values are sourced from U.S. Census 4-year estimates (2019–2023).
 Dashboards are optimized for interactive exploration.
 
 
-**You can also view the dashboard** on [Tableau Public] (https://public.tableau.com/views/CensusAmericanCommunitySurvey5yrEstimate_html/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**You can also view the dashboard** on [Tableau Public](https://public.tableau.com/views/CensusAmericanCommunitySurvey5yrEstimate_html/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Dashboard Screenshot](./Dashboard 1.png)
+![Dashboard Screenshot](./Dashboard%201.png)
