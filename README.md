@@ -65,7 +65,7 @@ The Tableau dashboards provide interactive analysis of:
 
 ## Live Demo
 
-You can view the interactive Tableau dashboard here: [View Dashboard](https://username.github.io/repo/)
+You can view the interactive Tableau dashboard here: [View Dashboard](https://ktbridge.github.io/Tableau-Census-5-year-Estimate)
 
 
 OR
@@ -92,4 +92,4 @@ Dashboards are optimized for interactive exploration.
 
 **You can also view the dashboard** on [Tableau Public] (https://public.tableau.com/views/CensusAmericanCommunitySurvey5yrEstimate_html/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Dashboard Screenshot](Dashboard 1.png)
+![Dashboard Screenshot](./Dashboard 1.png)
