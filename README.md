@@ -4,7 +4,7 @@ This repository contains Tableau dashboards built using Census 4-Year Estimates 
 The dashboards provide an interactive view of key demographic and economic indicators across U.S. states.
 
 
-📊 Data Sources
+📊 ## Data Sources
 
 The dashboards are based on annual Excel files for the years:
 
@@ -21,7 +21,8 @@ The dashboards are based on annual Excel files for the years:
 Each file contains census estimates at the state level.
 
 
-🛠️ Data Collection
+
+🛠️ ## Data Collection
 
 The raw data was obtained from the U.S. Census Bureau using two approaches:
 
@@ -32,7 +33,8 @@ The raw data was obtained from the U.S. Census Bureau using two approaches:
 The collected data was cleaned and exported into Excel format (.xlsx) for consistency across the five years.
 
 
-🗂️ Data Dictionary
+
+🗂️ ## Data Dictionary
 
 Column	Description:
 
@@ -45,7 +47,8 @@ Column	Description:
 - Poverty Rate	Percentage of the population living below the poverty line (%)
 
 
-📈 Dashboards
+
+📈 ## Dashboards
 
 The Tableau dashboards provide interactive analysis of:
 
@@ -61,9 +64,9 @@ The Tableau dashboards provide interactive analysis of:
 
 
 
-🚀 Usage
+🚀 ## Usage
 
-## Live Demo
+### Live Demo
 
 You can view the interactive Tableau dashboard here: [View Dashboard](https://ktbridge.github.io/Tableau-Census-5-year-Estimate)
 
@@ -81,7 +84,7 @@ OR
 
 
 
-📌 Notes
+📌 ## Notes
 
 Data is aggregated at the state level.
 
